@@ -1,0 +1,38 @@
+==================
+Terms of Service for Crypto Trading Bot
+==================
+
+Last Updated: February 22, 2025
+
+By using the Crypto Trading Bot ("Bot" or "Service"), you agree to the following terms and conditions. Please read them carefully.
+
+1. **Acceptance of Terms**
+   - By inviting, using, or interacting with the Crypto Trading Bot in any Discord server, you agree to be bound by these Terms of Service. If you do not agree, do not use the Bot.
+
+2. **Description of Service**
+   - The Crypto Trading Bot is a tool designed for personal use to monitor cryptocurrency prices, execute trades on Kraken, and send trading alerts to Discord via TradingView webhooks. It is intended for educational and personal trading purposes only.
+
+3. **User Responsibilities**
+   - You are responsible for ensuring your Discord server complies with Discord’s Terms of Service and Community Guidelines.
+   - You must provide valid Kraken API credentials and ensure sufficient funds for trading ($15+ USD per trade).
+   - You are responsible for all trades executed by the Bot, including any financial risks or losses.
+
+4. **No Guarantee of Profits**
+   - The Bot does not guarantee profits or successful trades. Use of the Bot is at your own risk. The developer is not liable for any financial losses, errors, or damages resulting from its use.
+
+5. **Intellectual Property**
+   - The Bot and its code are the property of the developer. You may not reverse-engineer, modify, or distribute the Bot without explicit permission.
+
+6. **Termination**
+   - The developer reserves the right to terminate or suspend your access to the Bot at any time, with or without notice, for violation of these terms or Discord’s policies.
+
+7. **Changes to Terms**
+   - The developer may update these Terms of Service at any time. Continued use of the Bot after updates constitutes acceptance of the new terms.
+
+8. **Contact Information**
+   - For questions or concerns, contact the developer at [Your Email] (e.g., yourpersonalemail@example.com).
+
+9. **Governing Law**
+   - These terms are governed by the laws of [Your Jurisdiction, e.g., United States or your country], without regard to its conflict of laws principles.
+
+By using the Crypto Trading Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
