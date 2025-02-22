@@ -1,0 +1,41 @@
+==================
+Privacy Policy for Crypto Trading Bot
+==================
+
+Last Updated: February 22, 2025
+
+This Privacy Policy explains how the Crypto Trading Bot ("Bot" or "Service") collects, uses, and protects your information when you use it in Discord. We prioritize your privacy and adhere to Discord’s and Kraken’s data policies.
+
+1. **Information We Collect**
+   - **No Personal Data**: The Crypto Trading Bot does not collect, store, or process any personally identifiable information (e.g., names, emails, addresses) about users.
+   - **API Credentials**: Users provide their Kraken API key and secret for trading, which are stored locally on the user’s device (e.g., in a `.env` file) and used only for executing trades. These credentials are not shared with the developer or third parties.
+   - **Discord Channel ID**: The Bot uses a Discord channel ID (provided by the user) to send trading notifications. This ID is stored locally and not shared or used for any other purpose.
+   - **Trading Data**: The Bot processes cryptocurrency prices and trade data from Kraken and TradingView for trading purposes, but this data is not stored long-term or shared unless explicitly sent to Discord as notifications.
+
+2. **How We Use Your Information**
+   - We use Kraken API credentials and channel IDs solely to execute trades on Kraken and send notifications to your Discord channel via TradingView alerts.
+   - No data is sold, shared, or used for advertising or marketing purposes.
+
+3. **Data Storage and Security**
+   - All sensitive data (e.g., Kraken API keys, Discord channel ID) is stored locally on your device in a `.env` file, accessible only to you.
+   - The developer does not access, store, or transmit this data to any third parties.
+   - Trading data (e.g., prices, trades) is processed temporarily for real-time operations and not retained long-term.
+
+4. **Third-Party Services**
+   - The Bot integrates with:
+     - **Discord**: For sending notifications, adhering to Discord’s Privacy Policy (https://discord.com/privacy).
+     - **Kraken**: For trading, adhering to Kraken’s Privacy Policy (https://www.kraken.com/legal/privacy).
+     - **TradingView**: For receiving alerts, adhering to TradingView’s Privacy Policy (https://www.tradingview.com/policies/privacy/).
+   - We do not control these third parties’ data practices—review their policies for details.
+
+5. **Your Choices**
+   - You can stop using the Bot at any time, removing your Kraken API credentials and Discord channel ID from `.env`.
+   - To stop notifications, remove the Bot from your Discord server or disable TradingView alerts.
+
+6. **Changes to This Policy**
+   - We may update this Privacy Policy at any time. Continued use of the Bot after updates constitutes acceptance of the new policy.
+
+7. **Contact Information**
+   - For privacy concerns or questions, contact the developer at [Your Email] (e.g., yourpersonalemail@example.com).
+
+By using the Crypto Trading Bot, you acknowledge that you have read, understood, and agree to this Privacy Policy.
